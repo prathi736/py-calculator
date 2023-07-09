@@ -1,6 +1,6 @@
 # 🖩 Python Calculator 
 
-I have created a simple python calculator. I have taken user input of numbers and operations that a user want to carry out. I have also used switch case for arthimetic calculations.
+I have created a simple Python calculator. I have taken user input of numbers and operations a user wants to carry out. I have also used a switch case for arithmetic calculations.
 
 ## 👨‍💻 Tech Used 
 
@@ -9,9 +9,9 @@ I have created a simple python calculator. I have taken user input of numbers an
 **Programming Language:** Python
 
 
-## 👇 Video related to program
+## 👇 Video related to the program
 
-https://github.com/prathi736/py-calculator/assets/63576303/4d9b7a87-22af-4e4f-b073-6800d3b8df3c
+https://github.com/prathi736/py-calculator/assets/63576303/03247cdd-58e7-4f39-bd46-bca722e017fd
 
 
 ## 😀 Author
