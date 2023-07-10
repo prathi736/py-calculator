@@ -4,7 +4,7 @@ I have created a simple Python calculator. I have taken user input of numbers an
 
 ## 👨‍💻 Tech Used 
 
-**Design Tool:** Jupyter Notebook
+**Tool:** Jupyter Notebook
 
 **Programming Language:** Python
 
